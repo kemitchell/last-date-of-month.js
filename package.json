@@ -11,6 +11,11 @@
   "files": [
     "index.js"
   ],
+  "keywords": [
+    "calendar",
+    "date",
+    "year"
+  ],
   "license": "MIT",
   "repository": "kemitchell/last-date-of-month.js",
   "scripts": {
